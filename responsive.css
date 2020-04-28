@@ -248,7 +248,7 @@
 }
 
 /* スマホ向けレイアウト */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 500px) {
   @keyframes fade-in5 {
     0% {
       opacity: 0;
