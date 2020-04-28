@@ -473,7 +473,7 @@
     height: 100px;
     margin-top: 350px;
     display: grid;
-    grid-template-columns: repeat(2, 60%);
+    grid-template-columns: repeat(2, 50%);
 
   }
   
