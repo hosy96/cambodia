@@ -247,40 +247,6 @@
 
 }
 
-
-
-
-/* タブレット向けレイアウト */
-@media all and (max-width: 1200px) {
-  header {
-    width: 100%;
-    margin-bottom: 50px;
-  }
-
-  .header-menu-right {
-    display: none;
-  }
-
-  .top-container {
-    width: auto;
-  }
-
-  .top-book {
-    display: block;
-
-  }
-
-  .top-boad {
-    display: block;
-  }
-  
-
-  footer {
-    text-align: center;
-  }
-
-}
-
 /* スマホ向けレイアウト */
 @media all and (max-width: 500px) {
   @keyframes fade-in5 {
