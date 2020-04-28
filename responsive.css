@@ -276,6 +276,10 @@
     margin-bottom: 50px;
   }
 
+  .header-menu{
+    display: none;
+  }
+
   .header-menu-right{
     display: none;
   }
