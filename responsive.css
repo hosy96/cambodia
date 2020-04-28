@@ -307,6 +307,7 @@
     display: block;
     text-align: center;
     margin-left: 100px;
+    width: 300px;
     border-radius: 5%;
     box-shadow: 8px 8px 4px gray;
     user-select: none;
