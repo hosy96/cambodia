@@ -276,6 +276,10 @@
     margin-bottom: 50px;
   }
 
+  .header-menu-right{
+    display: none;
+  }
+
   .top-container {
     height: auto;
     background-color: #feffdf;
@@ -307,7 +311,6 @@
     display: block;
     text-align: center;
     margin-left: 100px;
-    width: 200px;
     border-radius: 5%;
     box-shadow: 8px 8px 4px gray;
     user-select: none;
