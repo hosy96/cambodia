@@ -414,8 +414,8 @@
   
   .top-boad img {
     display: block;
-    margin-top: 40px;
-    margin-right: 50px;
+    -webkit-transform: translateY(-50%) translateX(-50%);
+    transform: translateY(-50%) translateX(-50%);
     border-radius: 3%;
     width: 200px;
     height: 150px;
